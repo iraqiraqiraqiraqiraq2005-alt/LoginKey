@@ -16,9 +16,9 @@
 
   "device_section": [
     {
-      "device_id": "595ea3b33619b70e",
+      "device_id": "8B31368341C70F1D",
       "password": "1234",
-      "expire_date": "2026-12-31"
+      "expire_date": "2026-12-30"
     },
     {
       "device_id": "abcdef9876543210",
