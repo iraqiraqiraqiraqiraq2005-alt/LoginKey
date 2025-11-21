@@ -4,29 +4,29 @@
 
   "title": "Premium Login",
   "descriptions": [
-    "مرحبا بك في تطبيق المدفوع.",
-    "أدخل كلمة المرور الخاصة بك للمواصلة.",
-    "تأكد من تسجيل جهازك."
+    "Welcome to Premium Access.",
+    "Enter your password to continue.",
+    "Make sure your device is registered."
   ],
 
   "button_login": "Login",
   "button_admin": "Admin",
   "button_copy": "Copy ID",
-  "admin_url": "https://t.me/RemoBrownyt",
+  "admin_url": "https://google.com",
 
   "device_section": [
     {
-      "device_id": "8B31368341C70F1D",
-      "password": "1234",
-      "expire_date": "2026-12-30"
+      "device_id": "595ea3b33619b70e",
+      "password": "1122",
+      "expire_date": "2025-12-31"
     },
     {
-      "device_id": "595ea3b33619b7sx",
+      "device_id": "abcdef9876543210",
       "password": "3344",
       "expire_date": "2026-01-15"
     },
     {
-      "device_id": "595ea3b33619b70e",
+      "device_id": "offline-device",
       "password": "1234",
       "expire_date": "2026-01-01"
     }
