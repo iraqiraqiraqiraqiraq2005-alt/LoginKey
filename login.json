@@ -16,7 +16,7 @@
 
   "device_section": [
     {
-      "device_id": "595ea3b33619b70e",
+      "device_id": "595ea3bf5d33619b70e",
       "password": "remo",
       "expire_date": "2025-11-22"
     },
@@ -26,8 +26,8 @@
       "expire_date": "2026-01-15"
     },
     {
-      "device_id": "offline-device",
-      "password": "1234",
+      "device_id": "595ea3b33619b70e",
+      "password": "123456",
       "expire_date": "2026-01-01"
     }
   ]
